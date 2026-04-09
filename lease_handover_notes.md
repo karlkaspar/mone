@@ -2,6 +2,10 @@
 
 This file records the tenant's visible rent payments and the lease details transcribed from the photos shared in chat.
 
+Related archive:
+
+- `chat_image_archive.md` documents the inspected `main` branch image situation and the text-only archive of all chat-supplied images used to prepare these notes.
+
 ## Payment record
 
 Source: mobile banking screenshots showing transfers to Patrice SCHWAB.
